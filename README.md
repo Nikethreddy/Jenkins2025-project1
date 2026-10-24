@@ -19,7 +19,7 @@ Java 17 or later is required for the build, and the application can run with Jav
 You first need to clone the project locally:
 
 ```bash
-git clone https://github.com/spring-projects/spring-petclinic.git
+git clone https://github.com/Nikethreddy/Jenkins2025-project1.git
 cd spring-petclinic
 ```
 If you are using Maven, you can start the application on the command-line as follows:
